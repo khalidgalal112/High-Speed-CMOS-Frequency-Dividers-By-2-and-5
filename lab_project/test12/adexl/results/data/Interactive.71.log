@@ -1,0 +1,22 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sat Nov 14 09:34:09 2026 
+Best design point: 1
+Design specs: 
+	lab2_project:first_trial:1	corner	Nominal - 
+	dutycycle		49.27
+	power		851.4n
+	true ?		Error	No
+	FOM		1.174
+Design parameters: 
+	f		1G
+	V_supply		800m
+	WN		200
+	WP		250
+	K		1
+
+Interactive.71
+Number of points completed: 64
+Number of simulation errors: 4
+Interactive.71 completed. 
+Current time: Sat Nov 14 09:35:55 2026 

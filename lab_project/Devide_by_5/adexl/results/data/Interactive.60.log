@@ -1,0 +1,21 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Nov 20 23:27:58 2026 
+Best design point: 1
+Design specs: 
+	lab2_project:Devide_by_5:1	corner	Nominal - 
+	Duty_Cycle		50.29
+	avg_current		-18.15u
+	average((freq(clip(VT("/out") 2e-09 1.5e-08) "rising" ?xName "time" ?mode "auto") / (VAR("f"))))		Error	No
+	power		14.52u
+	FoM		206.6m
+	(average(freq(clip(VT("/out") 2e-09 1.5e-08) "rising" ?xName "time" ?mode "user" ?threshold (VAR("V_SUP") / 2))) / VAR("f"))		200m
+Design parameters: 
+	f		3G
+	V_SUP		800m
+
+Interactive.60
+Number of points completed: 2
+Number of simulation errors: 2
+Interactive.60 completed. 
+Current time: Fri Nov 20 23:28:05 2026 
